@@ -159,26 +159,6 @@ GitHub: https://github.com/Jebaraj1818
 
 ```
 
-### Step 11 — Commit it
-
-After pasting:
-
-1. Scroll down.
-2. In **Commit changes**, use:
-
-`docs: add professional project README`
-
-3. Click **Commit changes**.
-
-That's it. 🎯
-
-**Don't change any source files.**
-
-Once you've committed the README, go back to the repository's main page and tell me **"README done"**.
-
-Then we'll do the final portfolio touches: **screenshots + topics/tags + pinning Doddle Bags to your profile**. 🔥
-```
-
 
 
 <!--
