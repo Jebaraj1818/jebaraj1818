@@ -154,6 +154,23 @@ Full-Stack Developer | Python | Flask | DevOps | Data Analytics
 GitHub: https://github.com/Jebaraj1818
 
 ---
+## 📸 Project Screenshots
+
+### 🏠 Homepage
+
+![Doddle Bags Homepage](homepage.png.png)
+
+### 📊 Admin Dashboard
+
+![Doddle Bags Admin Dashboard](admin-dashboard.png.png)
+
+### 📦 Order Management
+
+![Doddle Bags Orders](orders.png.png)
+
+### 📈 Analytics Dashboard
+
+![Doddle Bags Analytics](analytics.png.png)
 
 ⭐ If you find this project interesting, feel free to explore the repository.
 
