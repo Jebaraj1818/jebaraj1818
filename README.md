@@ -40,9 +40,9 @@ I'm a BBA student and aspiring software developer who enjoys building real-world
 
 ---
 
-## 👜 Featured Project
+## 🚀 Featured Projects
 
-### Doddle Bags — Full-Stack E-Commerce Platform
+### 👜 Doddle Bags — Full-Stack E-Commerce Platform
 
 A real-world e-commerce platform developed for an entrepreneur and her handmade bag business.
 
@@ -66,6 +66,34 @@ https://doddle-bags.vercel.app/
 https://github.com/Jebaraj1818/doddle-bags-ecommerce
 
 ---
+
+### 🧠 DataMind AI — Universal Data Intelligence Platform
+
+An AI-powered data analytics platform that transforms CSV datasets into interactive dashboards, intelligent visualizations, automated insights, advanced analytics, and executive reports.
+
+**Highlights:**
+
+* Universal CSV dataset analysis
+* Automatic data profiling & quality analysis
+* Intelligent visualization recommendations
+* AI Dataset Assistant powered by Google Gemini
+* Correlation & relationship analysis
+* Outlier and anomaly detection
+* Timeline trend analysis
+* Baseline forecasting
+* Subgroup segmentation
+* Executive PDF report generation
+* Full-stack React + Flask architecture
+* Production deployment with Vercel
+
+🌐 **Live Demo:**
+https://datamind-ai-gamma.vercel.app/
+
+💻 **View Source Code:**
+https://github.com/Jebaraj1818/datamind-ai
+
+
+
 
 ## 📚 Currently Learning
 
