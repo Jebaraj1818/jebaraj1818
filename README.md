@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jebaraj P.
-
-### 💻 Full-Stack Developer | Python | Flask | DevOps | Data Analytics
+###
+ 💻 Full-Stack Developer | Python | Flask | DevOps | Data Analytics
 
 I'm a BBA student and aspiring software developer who enjoys building real-world applications and exploring how technology can solve practical business problems.
 
@@ -59,10 +59,10 @@ A real-world e-commerce platform developed for an entrepreneur and her handmade 
 * Password reset workflow
 * Security and production hardening
 
-🌐 **Live Website:**
+🌐 **Live Website:**  
 https://doddle-bags.vercel.app/
 
-💻 **View Source Code:**
+💻 **View Source Code:**  
 https://github.com/Jebaraj1818/doddle-bags-ecommerce
 
 ---
@@ -86,29 +86,59 @@ An AI-powered data analytics platform that transforms CSV datasets into interact
 * Full-stack React + Flask architecture
 * Production deployment with Vercel
 
-🌐 **Live Demo:**
+🌐 **Live Demo:**  
 https://datamind-ai-gamma.vercel.app/
 
-💻 **View Source Code:**
+💻 **View Source Code:**  
 https://github.com/Jebaraj1818/datamind-ai
 
+---
 
+### 🌍 The Transit Story — Travel & Tour Website
 
+A responsive travel and tour website developed for a startup, helping users explore destinations and submit customised travel enquiries through an engaging user experience.
 
-### 🌍 [The Transit Story](https://transit-story.vercel.app/)
-A responsive travel and tour website that helps users explore destinations and submit customised travel enquiries. Includes a custom admin panel for managing destinations and website content.
+**Highlights:**
+
+* Responsive travel website with destination exploration
+* Interactive pages and smooth animations
+* Custom travel enquiry experience
+* Dedicated admin panel for managing destinations and website content
+* Modern UI built with reusable components
+* Responsive layouts for desktop and mobile devices
+* Production deployment with Vercel
 
 **Tech Stack:** React, Vite, Tailwind CSS, Framer Motion, Python, Flask, MySQL
 
-🔗 [Live Demo](https://transit-story.vercel.app/) | [GitHub Repository](https://github.com/jebaraj1818/transit-story)
+🌐 **Live Demo:**  
+https://transit-story.vercel.app/
 
-### 🎬 [Personal Portfolio](https://jebaraj-portfolio.vercel.app/)
-A cinematic, interactive portfolio showcasing my projects, technical skills, services, and freelance availability through immersive visuals, smooth animations, and responsive design.
+💻 **View Source Code:**  
+https://github.com/jebaraj1818/transit-story
+
+---
+
+### 🎬 Personal Portfolio — Cinematic Developer Portfolio
+
+An interactive, cinematic portfolio designed to showcase my projects, technical skills, services, and freelance availability through immersive visuals, smooth transitions, and responsive layouts.
+
+**Highlights:**
+
+* Cinematic landing page with immersive visual design
+* Smooth page transitions and motion effects
+* Interactive project showcase
+* Dedicated sections for skills, services, and professional background
+* Responsive design for desktop and mobile devices
+* Modern component-based frontend architecture
+* Deployed portfolio website for showcasing my work
 
 **Tech Stack:** React, Vite, JavaScript, Tailwind CSS, Framer Motion
 
-🔗 [Live Demo](https://jebaraj-portfolio.vercel.app/) | [GitHub Repository](https://github.com/jebaraj1818/jebaraj-portfolio)
+🌐 **Live Demo:**  
+https://jebaraj-portfolio.vercel.app/
 
+💻 **View Source Code:**  
+https://github.com/jebaraj1818/jebaraj-portfolio
 
 
 
