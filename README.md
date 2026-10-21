@@ -2,19 +2,21 @@
 ###
  💻 Full-Stack Developer | Python | Flask | DevOps | Data Analytics
 
-I'm a BBA student and aspiring software developer who enjoys building real-world applications and exploring how technology can solve practical business problems.
-
----
-
 ## 🚀 About Me
 
-* 🎓 Currently pursuing **BBA**
-* 💻 Interested in **Full-Stack Development**
-* 🐍 Building applications with **Python & Flask**
-* 🗄️ Working with **MySQL**
-* ⚙️ Currently learning **DevOps & Cloud Technologies**
-* 📊 Exploring **Data Analytics**
-* 🚀 Interested in building technology-driven solutions for real-world businesses
+I'm a BBA student and aspiring software developer who enjoys building real-world applications and exploring how technology can solve practical business problems.
+
+* 🎓 Currently pursuing BBA
+* 💻 Interested in Full-Stack Development
+* 🐍 Building applications with Python & Flask
+* 🗄️ Working with MySQL
+* ⚙️ Currently learning DevOps & Cloud Technologies
+* 📊 Exploring Data Analytics
+* 🚀 Building technology-driven solutions for real-world businesses
+
+🌐 **Portfolio:** https://jebaraj-portfolio.vercel.app/  
+💼 **LinkedIn:** https://www.linkedin.com/in/jeba-raj-bb350a395/  
+💻 **GitHub:** https://github.com/Jebaraj1818
 
 ---
 
