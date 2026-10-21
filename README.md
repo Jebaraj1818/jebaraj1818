@@ -95,6 +95,23 @@ https://github.com/Jebaraj1818/datamind-ai
 
 
 
+### 🌍 [The Transit Story](https://transit-story.vercel.app/)
+A responsive travel and tour website that helps users explore destinations and submit customised travel enquiries. Includes a custom admin panel for managing destinations and website content.
+
+**Tech Stack:** React, Vite, Tailwind CSS, Framer Motion, Python, Flask, MySQL
+
+🔗 [Live Demo](https://transit-story.vercel.app/) | [GitHub Repository](https://github.com/jebaraj1818/transit-story)
+
+### 🎬 [Personal Portfolio](https://jebaraj-portfolio.vercel.app/)
+A cinematic, interactive portfolio showcasing my projects, technical skills, services, and freelance availability through immersive visuals, smooth animations, and responsive design.
+
+**Tech Stack:** React, Vite, JavaScript, Tailwind CSS, Framer Motion
+
+🔗 [Live Demo](https://jebaraj-portfolio.vercel.app/) | [GitHub Repository](https://github.com/jebaraj1818/jebaraj-portfolio)
+
+
+
+
 ## 📚 Currently Learning
 
 ### ⚙️ DevOps
